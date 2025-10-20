@@ -307,6 +307,7 @@ When you want to contribute code, please follow these steps:
 
 ## 💡 Questions or Suggestions?
 
-Feel free to open an issue for questions, suggestions, or discussions related to this repository. For further discussion as well as a showcase of some community projects, check out the [Polymer developer forum](https://forum.polymerlabs.org).
-
+Feel free to open an issue for questions, suggestions, or discussions related to this repository. For further discussion as well as a showcase of some community projects, check out the [Polymer developer forum]
+https://x.com/ArsvFfg22371
 Thank you for being a part of our community!
+
